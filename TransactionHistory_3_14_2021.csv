@@ -1,0 +1,93 @@
+Symbol,TransactionType,CompanyName,Exchange,Quantity,FXRate,Currency,SecurityType,Price,CreateDate
+SI/H1,Market - Cover,SILVER 5000 OZ. 3/11,US,1,1.00,USD,Futures,$25.9300,03/12/2021 - 13:55
+SI/H1,Market - Short,SILVER 5000 OZ. 3/11,US,-1,1.00,USD,Futures,$25.6150,03/12/2021 - 10:12
+GC/M1,Market - Cover,GOLD 6/11,US,1,1.00,USD,Futures,"$1,705.6000",03/12/2021 - 10:07
+HG/K1,Market - Sell,COPPER HIGRADE 5/11,US,-1,1.00,USD,Futures,$4.1345,03/11/2021 - 12:30
+HG/K1,Market - Buy,COPPER HIGRADE 5/11,US,1,1.00,USD,Futures,$4.0325,03/10/2021 - 13:48
+PA/M1,Market - Cover,PALLADIUM 6/11,US,2,1.00,USD,Futures,"$2,295.5000",03/10/2021 - 13:36
+BTC/H1,Limit - Sell,Bitcoin Futures MAR 21,US,-1,1.00,USD,Futures,"$56,510.0000",03/10/2021 - 09:39
+HG/H1,Market - Short,COPPER HIGRADE 3/11,US,-1,1.00,USD,Futures,$4.0115,03/09/2021 - 12:36
+GC/M1,Market - Short,GOLD 6/11,US,-1,1.00,USD,Futures,"$1,717.0000",03/09/2021 - 09:32
+BTC/H1,Market - Buy,Bitcoin Futures MAR 21,US,1,1.00,USD,Futures,"$55,060.0000",03/09/2021 - 09:31
+PA/M1,Market - Short,PALLADIUM 6/11,US,-2,1.00,USD,Futures,"$2,328.0000",03/05/2021 - 14:57
+CL/K1,Market - Sell,OIL CRUDE (SWEET) 5/11,US,-1,1.00,USD,Futures,$65.8500,03/05/2021 - 14:35
+GC/J1,Limit - Cover,GOLD 4/11,US,1,1.00,USD,Futures,"$1,693.0000",03/04/2021 - 15:16
+GC/J1,Market - Short,GOLD 4/11,US,-1,1.00,USD,Futures,"$1,708.7000",03/03/2021 - 09:52
+GC/H1,Market - Cover,GOLD 3/11,US,1,1.00,USD,Futures,"$1,709.4000",03/03/2021 - 09:48
+GC/H1,Market - Short,GOLD 3/11,US,-1,1.00,USD,Futures,"$1,709.4000",03/03/2021 - 09:47
+SI/K1,Market - Buy,SILVER 5000 OZ. 5/11,US,1,1.00,USD,Futures,$26.8100,03/02/2021 - 14:57
+SI/H1,Market - Sell,SILVER 5000 OZ. 3/11,US,-1,1.00,USD,Futures,$26.5450,02/26/2021 - 10:08
+SI/H1,Market - Buy,SILVER 5000 OZ. 3/11,US,1,1.00,USD,Futures,$26.8200,02/26/2021 - 09:35
+CL/J1,Market - Cover,OIL CRUDE (SWEET) 4/11,US,1,1.00,USD,Futures,$61.9700,02/23/2021 - 15:10
+CL/K1,Market - Buy,OIL CRUDE (SWEET) 5/11,US,1,1.00,USD,Futures,$61.6800,02/23/2021 - 15:01
+CL/J1,Market - Short,OIL CRUDE (SWEET) 4/11,US,-1,1.00,USD,Futures,$61.9700,02/23/2021 - 14:59
+BZ/J1,Market - Sell,Brent Last Day Financial Futures APR 21,US,-4,1.00,USD,Futures,$65.3500,02/23/2021 - 12:26
+SI/H1,Market - Sell,SILVER 5000 OZ. 3/11,US,-1,1.00,USD,Futures,$28.1350,02/22/2021 - 15:04
+NG/J1,Market - Sell,GAS NATURAL 4/11,US,-1,1.00,USD,Futures,$2.9200,02/22/2021 - 14:47
+SI/H1,Market - Buy,SILVER 5000 OZ. 3/11,US,1,1.00,USD,Futures,$28.0250,02/22/2021 - 12:23
+SI/H1,Market - Sell,SILVER 5000 OZ. 3/11,US,-3,1.00,USD,Futures,$27.9100,02/22/2021 - 11:00
+RB/K1,Market - Sell,RBOB Gasoline Futures MAY 21,US,-1,1.00,USD,Futures,$1.8713,02/18/2021 - 10:21
+BZ/J1,Market - Buy,Brent Last Day Financial Futures APR 21,US,4,1.00,USD,Futures,$64.1500,02/17/2021 - 14:08
+BZ/J1,Market - Cover,Brent Last Day Financial Futures APR 21,US,3,1.00,USD,Futures,$64.1500,02/17/2021 - 14:07
+SI/H1,Market - Buy,SILVER 5000 OZ. 3/11,US,2,1.00,USD,Futures,$27.3000,02/17/2021 - 13:37
+ONH21C320,Market - Buy,Natural Gas (Globex) 2/2021 3.2 CALL,US,1,1.00,USD,FutureOptions,$0.2140,02/17/2021 - 13:22
+ONH21C305,Market - Buy,Natural Gas (Globex) 2/2021 3.05 CALL,US,1,1.00,USD,FutureOptions,$0.1710,02/17/2021 - 11:24
+ONH21C310,Market - Buy,Natural Gas (Globex) 2/2021 3.1 CALL,US,1,1.00,USD,FutureOptions,$0.1450,02/16/2021 - 16:58
+NG/H1,Market - Sell,GAS NATURAL 3/11,US,-1,1.00,USD,Futures,$3.1370,02/16/2021 - 14:03
+BZ/J1,Stop - Short,Brent Last Day Financial Futures APR 21,US,-3,1.00,USD,Futures,$61.0700,02/11/2021 - 14:30
+BZ/J1,Market - Sell,Brent Last Day Financial Futures APR 21,US,-2,1.00,USD,Futures,$61.3000,02/11/2021 - 10:03
+NG/J1,Market - Buy,GAS NATURAL 4/11,US,1,1.00,USD,Futures,$2.9050,02/10/2021 - 15:29
+C/H1,Market - Cover,CORN 3/11,US,3,1.00,USD,Futures,$542.5000,02/10/2021 - 11:49
+RB/K1,Market - Buy,RBOB Gasoline Futures MAY 21,US,1,1.00,USD,Futures,$1.7954,02/10/2021 - 09:37
+CL/K1,Market - Sell,OIL CRUDE (SWEET) 5/11,US,-1,1.00,USD,Futures,$57.4200,02/08/2021 - 11:48
+NG/H1,Limit - Buy,GAS NATURAL 3/11,US,1,1.00,USD,Futures,$2.8670,02/08/2021 - 10:51
+BZ/J1,Limit - Buy,Brent Last Day Financial Futures APR 21,US,2,1.00,USD,Futures,$59.6500,02/05/2021 - 11:33
+NG/H1,Market - Sell,GAS NATURAL 3/11,US,-1,1.00,USD,Futures,$2.9880,02/05/2021 - 10:07
+NG/H1,Market - Buy,GAS NATURAL 3/11,US,1,1.00,USD,Futures,$2.8060,02/04/2021 - 09:43
+RB/K1,Market - Sell,RBOB Gasoline Futures MAY 21,US,-1,1.00,USD,Futures,$1.7412,02/03/2021 - 13:57
+RB/K1,Market - Buy,RBOB Gasoline Futures MAY 21,US,1,1.00,USD,Futures,$1.7376,02/03/2021 - 13:27
+CL/M1,Market - Cover,OIL CRUDE (SWEET) 6/11,US,1,1.00,USD,Futures,$55.2800,02/03/2021 - 12:05
+CL/H1,Market - Sell,OIL CRUDE (SWEET) 3/11,US,-1,1.00,USD,Futures,$56.0700,02/03/2021 - 10:46
+C/K1,Market - Sell,CORN 5/11,US,-2,1.00,USD,Futures,$537.7500,02/03/2021 - 10:06
+CL/M1,Market - Short,OIL CRUDE (SWEET) 6/11,US,-1,1.00,USD,Futures,$53.9300,02/02/2021 - 12:46
+CL/K1,Limit - Buy,OIL CRUDE (SWEET) 5/11,US,1,1.00,USD,Futures,$54.5900,02/02/2021 - 11:43
+CL/H1,Stop - Buy,OIL CRUDE (SWEET) 3/11,US,1,1.00,USD,Futures,$54.8500,02/02/2021 - 11:33
+SI/K1,Market - Cover,SILVER 5000 OZ. 5/11,US,1,1.00,USD,Futures,$26.8750,02/02/2021 - 10:44
+SI/K1,Market - Short,SILVER 5000 OZ. 5/11,US,-1,1.00,USD,Futures,$26.9950,02/02/2021 - 10:35
+SI/H1,Market - Buy,SILVER 5000 OZ. 3/11,US,1,1.00,USD,Futures,$29.6100,02/01/2021 - 10:06
+ZK/H1,Market - Sell,SOYBEANS 3/11,US,-1,1.00,USD,Futures,"$1,379.5000",02/01/2021 - 00:00
+C/K1,Limit - Buy,CORN 5/11,US,2,1.00,USD,Futures,$536.0000,01/28/2021 - 14:03
+C/K1,Market - Sell,CORN 5/11,US,-1,1.00,USD,Futures,$538.5000,01/28/2021 - 13:04
+C/K1,Limit - Buy,CORN 5/11,US,1,1.00,USD,Futures,$536.0000,01/28/2021 - 11:44
+ZW/H1,Market - Cover,WHEAT 3/11,US,1,1.00,USD,Futures,$654.5000,01/27/2021 - 20:00
+ZW/H1,Market - Short,WHEAT 3/11,US,-1,1.00,USD,Futures,$657.7500,01/27/2021 - 09:49
+ZW/H1,Market - Sell,WHEAT 3/11,US,-1,1.00,USD,Futures,$662.5000,01/26/2021 - 10:11
+C/H1,Market - Short,CORN 3/11,US,-2,1.00,USD,Futures,$511.0000,01/25/2021 - 16:05
+ZW/H1,Market - Buy,WHEAT 3/11,US,1,1.00,USD,Futures,$649.2500,01/25/2021 - 14:16
+LE/G1,Market - Sell,CATTLE LIVE 2/11,US,-5,1.00,USD,Futures,$116.7250,01/25/2021 - 13:19
+LE/M1,Market - Sell,CATTLE LIVE 6/11,US,-2,1.00,USD,Futures,$118.7250,01/25/2021 - 12:07
+C/H1,Market - Short,CORN 3/11,US,-1,1.00,USD,Futures,$499.5000,01/22/2021 - 14:47
+C/H1,Market - Sell,CORN 3/11,US,-1,1.00,USD,Futures,$499.5000,01/22/2021 - 14:46
+C/H1,Market - Buy,CORN 3/11,US,1,1.00,USD,Futures,$501.5000,01/22/2021 - 14:45
+ZW/H1,Market - Cover,WHEAT 3/11,US,1,1.00,USD,Futures,$635.5000,01/22/2021 - 14:19
+ZW/H1,Market - Short,WHEAT 3/11,US,-1,1.00,USD,Futures,$633.5000,01/22/2021 - 14:11
+LE/G1,Market - Buy,CATTLE LIVE 2/11,US,5,1.00,USD,Futures,$116.5500,01/22/2021 - 13:49
+LE/J1,Market - Sell,CATTLE LIVE 4/11,US,-2,1.00,USD,Futures,$122.3000,01/22/2021 - 13:39
+LE/M1,Market - Buy,CATTLE LIVE 6/11,US,1,1.00,USD,Futures,$118.4750,01/22/2021 - 13:37
+LE/M1,Market - Buy,CATTLE LIVE 6/11,US,1,1.00,USD,Futures,$118.3250,01/22/2021 - 13:32
+C/K1,Market - Cover,CORN 5/11,US,1,1.00,USD,Futures,$507.5000,01/22/2021 - 13:17
+ZW/H1,Market - Cover,WHEAT 3/11,US,1,1.00,USD,Futures,$636.7500,01/22/2021 - 13:04
+C/H1,Market - Sell,CORN 3/11,US,-2,1.00,USD,Futures,$502.5000,01/22/2021 - 12:33
+LE/J1,Market - Buy,CATTLE LIVE 4/11,US,1,1.00,USD,Futures,$122.0500,01/22/2021 - 12:09
+ZW/H1,Market - Short,WHEAT 3/11,US,-1,1.00,USD,Futures,$643.0000,01/22/2021 - 12:01
+C/K1,Market - Short,CORN 5/11,US,-1,1.00,USD,Futures,$517.7500,01/22/2021 - 11:09
+ZW/H1,Market - Sell,WHEAT 3/11,US,-1,1.00,USD,Futures,$660.5000,01/21/2021 - 14:14
+LE/G1,Market - Cover,CATTLE LIVE 2/11,US,2,1.00,USD,Futures,$114.0500,01/21/2021 - 12:59
+LE/J1,Market - Buy,CATTLE LIVE 4/11,US,1,1.00,USD,Futures,$119.7750,01/21/2021 - 11:11
+LE/G1,Market - Short,CATTLE LIVE 2/11,US,-2,1.00,USD,Futures,$114.0750,01/21/2021 - 11:11
+LE/G1,Market - Sell,CATTLE LIVE 2/11,US,-1,1.00,USD,Futures,$114.1250,01/21/2021 - 11:06
+C/H1,Stop - Buy,CORN 3/11,US,1,1.00,USD,Futures,$525.2500,01/21/2021 - 10:58
+C/H1,Market - Buy,CORN 3/11,US,1,1.00,USD,Futures,$527.2500,01/21/2021 - 10:28
+ZK/H1,Market - Buy,SOYBEANS 3/11,US,1,1.00,USD,Futures,"$1,388.7500",01/19/2021 - 12:50
+LE/G1,Market - Buy,CATTLE LIVE 2/11,US,1,1.00,USD,Futures,$113.4750,01/19/2021 - 12:43
+ZW/H1,Limit - Buy,WHEAT 3/11,US,1,1.00,USD,Futures,$671.5000,01/19/2021 - 12:10
